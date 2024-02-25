@@ -6,7 +6,7 @@
     <title>My Amazing JSP Page</title>
 </head>
 <body>
-    <h1>Welcome to My Amazing JSP Page!</h1>
+    <h1>Welcome to My Amazing trigger JSP Page!</h1>
     
     <!-- Replace the src attribute with the URL of your desired image -->
     <img src="https://example.com/image1.jpg" alt="Image 1">
