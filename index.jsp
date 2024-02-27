@@ -28,7 +28,7 @@
 
         <section class="row mb-5">
             <div class="col-md-6">
-                <h2>Power Your Future with Pior Solar - tiggger 2</h2>
+                <h2>Power Your Future with Pior Solar - tiggger 1</h2>
                 <p>At Pior Solar, we believe everyone deserves access to clean, reliable, and affordable energy. We are dedicated to providing high-quality solar panel solutions for homes and businesses, helping you save money and reduce your environmental impact.</p>
                 <a href="#" class="btn btn-primary">Get a Free Quote</a>
             </div>
