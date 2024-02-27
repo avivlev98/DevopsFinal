@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en"
-asdsadsdddd
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +13,7 @@ asdsadsdddd
         <div class="row align-items-center">
             <div class="col-md-6">
                 <!-- Replace the src attribute value with the path to your image -->
-                <img src="images/logo.png" alt="Pior Solar Logo" class="img-fluid" style="max-width: 300px;">
+                <img src="" alt="Pior Solar Logo" class="img-fluid" style="max-width: 300px;">
             </div>
             <nav class="col-md-6 d-flex justify-content-end align-items-center">
                 <a href="#" class="nav-link text-light me-3">Home</a>
@@ -34,7 +33,7 @@ asdsadsdddd
                 <a href="#" class="btn btn-primary">Get a Free Quote</a>
             </div>
             <div class="col-md-6">
-                <img src="images/home-solar-panel.jpeg" alt="Pior Solar Panels" class="img-fluid rounded" style="width: 100%; height: auto;"> </div>
+                <img src= alt="Pior Solar Panels" class="img-fluid rounded" style="width: 100%; height: auto;"> </div>
         </section>
 
         <section class="row mb-5">
